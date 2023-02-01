@@ -8,7 +8,7 @@ const Header: React.FC = props => {
     return (
         <nav className={classes.wrapper}>
             <FontAwesomeIcon icon={faWindows} className={classes.iconStyles} size="lg"></FontAwesomeIcon>
-            <span className={classes.titleStyles}>OUTLOOK CLONE</span>
+            <span className={classes.titleStyles}>MicroSoft OUTLOOK</span>
         </nav>
     )
 }
