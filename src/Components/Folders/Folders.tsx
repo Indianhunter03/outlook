@@ -68,7 +68,7 @@ const Folders: React.FC = observer(props => {
                 </ul >}
             </nav >
             <footer className={classes.footer}>
-                DESIGNED & DEVELOPED BY <a href="https://chandrahasballeda.com" target="_blank" rel="noopener noreferrer"> <FontAwesomeIcon icon={faExternalLinkAlt} className={classes.innerIconStyles} /> CHANDRAHAS BALLEDA</a>
+                DESIGNED & DEVELOPED BY ADITYA GIRI 
             </footer>
         </div >
     )
